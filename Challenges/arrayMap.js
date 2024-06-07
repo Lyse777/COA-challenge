@@ -21,4 +21,4 @@ function findSubarrayWithSum(arr, target) {
 
 const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
-console.log(findSubarrayWithSum(arr, target));  
+console.log(findSubarrayWithSum(arr, target));   // Output: true
