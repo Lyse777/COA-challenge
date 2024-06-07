@@ -18,4 +18,8 @@ function transformString(input) {
 
 console.log(transformString("Hamburger")); 
 console.log(transformString("Pizza")); 
-console.log(transformString("Chocolate Chip Cookie")); 
+console.log(transformString("Chocolate Chip Cookie")); //Output: regrubmaH
+                                                       //Output: 80 105 122 122 97
+                                                       //Output: eikooC pihC etalocohC
+
+
